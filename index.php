@@ -23,7 +23,6 @@
     <a href="">NIEUWS</a>
     <a href="">OVER ONS</a>
     <a href="contact.php">CONTACT</a>
-    <p>TEST TEST TEST TEST TEST!</p>
 </div>
 
 
