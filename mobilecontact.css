@@ -25,11 +25,11 @@ body{
     height: 20%;
     display: flex;
     position: absolute;
-    justify-content: space-evenly;
+    justify-content: start;
     font-size: 100%;
     flex-wrap: wrap;
     flex-direction: column;
-    cursor: pointer;
+    cursor: default;
 
 
 }
@@ -40,7 +40,7 @@ body{
 
 }
 .header a{
-    padding-top: 3%;
+    margin-top: 13%;
     color: white;
     text-align: center;
     text-decoration: none;
@@ -52,5 +52,10 @@ body{
     display: flex;
     width: 100%;
 }
+.header p{
+    margin-top: 15%;
 
+
+
+}
 /*      */

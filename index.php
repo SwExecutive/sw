@@ -14,10 +14,7 @@
 <body>
 <div class="header">
     <img style="margin-left: 10px"     src="src/sarwarelogo.png" alt="">
-<!--    <div class="headerkopje"><p>WINKEL</p></div>-->
-<!--    <div class="headerkopje"><p>NIEUWS</p></div>-->
-<!--    <div class="headerkopje"><p>OVER ONS</p></div>-->
-<!--    <div class="headerkopje"><p>CONTACT</p></div>-->
+
 
     <a href="">WINKEL</a>
     <a href="">NIEUWS</a>

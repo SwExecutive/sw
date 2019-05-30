@@ -25,17 +25,15 @@
         height: 14%;
         display: flex;
         position: fixed;
-        justify-content: space-evenly;
-        font-size: 180%;
         flex-direction: row;
         flex-wrap: nowrap;
-        cursor: crosshair;
+        cursor: default;
         text-decoration: none;
     }
 
     .header img{
-        padding-top: 1%;
-        width: 14%;
+        width: 100%;
+
     }
 
     .header a{
@@ -43,6 +41,11 @@
         color: white;
         text-align: center;
         text-decoration: none;
+        margin-top: 3%;
+        margin-left: 10%;
+        font-size: 160%;
+        width: 250px;
+
 
     }
 
@@ -52,7 +55,20 @@
 
     .active, .header:hover {
         background-color: rgb(218,165,32);
+        height: 14%;
         color: black;
+    }
+
+    .header p{
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        margin-top: 3.5%;
+        margin-left: 20%;
+        font-size: 195%;
+
+
+
     }
 
     .headerkopje{

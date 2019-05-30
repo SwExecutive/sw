@@ -26,16 +26,15 @@
         display: flex;
         position: fixed;
         justify-content: space-evenly;
-        font-size: 180%;
         flex-direction: row;
         flex-wrap: nowrap;
-        cursor: crosshair;
+        cursor: default;
         text-decoration: none;
     }
 
     .header img{
         padding-top: 1%;
-        width: 14%;
+        width: 250px;
     }
 
     .header a{
@@ -43,6 +42,9 @@
         color: white;
         text-align: center;
         text-decoration: none;
+        margin-top: 0.8%;
+        font-size: 160%;
+
 
     }
 

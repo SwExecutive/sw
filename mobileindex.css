@@ -29,7 +29,7 @@ body{
     font-size: 100%;
     flex-wrap: wrap;
     flex-direction: column;
-    cursor: pointer;
+    cursor: default;
 
 
 }
@@ -53,4 +53,4 @@ width: 30%;
     width: 100%;
 }
 
-    /*      */
+/*      */
