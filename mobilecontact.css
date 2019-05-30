@@ -1,0 +1,56 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: black;
+    height: 280vh;
+    position: relative;
+    margin: auto;
+    background-image: url("src/achtergrond3.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+}
+/*HEADER CSS*/
+
+.header {
+    font-family: 'Proxy 1', sans-serif;
+    background-color: black;
+    color: white;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    border: none;
+    outline: none;
+    transition: 1.0s;
+    height: 20%;
+    display: flex;
+    position: absolute;
+    justify-content: space-evenly;
+    font-size: 100%;
+    flex-wrap: wrap;
+    flex-direction: column;
+    cursor: pointer;
+
+
+}
+
+.header img{
+    width: 30%;
+    align-self: center;
+
+}
+.header a{
+    padding-top: 3%;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.headerkopje{
+    flex-direction: column;
+    display: flex;
+    width: 100%;
+}
+
+/*      */

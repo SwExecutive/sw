@@ -1,0 +1,73 @@
+@media all and (min-width: 700px){
+    body{
+        background-image: url("src/achtergrond3.png");
+        font-family: 'Roboto Condensed', sans-serif;
+        height: 280vh;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-position: bottom;
+        position: relative;
+        margin: auto;
+    }
+
+    /*HEADER CSS*/
+
+    .header {
+        font-family: 'Proxy 1', sans-serif;
+        background-color: black;
+        color: white;
+        padding: 0;
+        width: 100%;
+        text-align: center;
+        border: none;
+        outline: none;
+        transition: 1.0s;
+        height: 14%;
+        display: flex;
+        position: fixed;
+        justify-content: space-evenly;
+        font-size: 180%;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        cursor: crosshair;
+        text-decoration: none;
+    }
+
+    .header img{
+        padding-top: 1%;
+        width: 14%;
+    }
+
+    .header a{
+
+        color: white;
+        text-align: center;
+        text-decoration: none;
+
+    }
+
+    .header a:hover{
+        color: black;
+    }
+
+    .active, .header:hover {
+         background-color: rgb(218,165,32);
+         height: 14%;
+         color: black;
+     }
+
+    .headerkopje{
+    }
+    /*        */
+
+
+
+
+
+
+
+
+    /*DROPDOWN MENU'S !*/
+
+    /*                */
+}
