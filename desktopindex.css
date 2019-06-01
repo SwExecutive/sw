@@ -1,4 +1,8 @@
 @media all and (min-width: 700px){
+    .bodydiv{
+        width: 100%;
+        height: 100%;
+    }
     body{
         background-image: url("src/achtergrond3.png");
         font-family: 'Roboto Condensed', sans-serif;
@@ -30,6 +34,8 @@
         flex-wrap: nowrap;
         cursor: default;
         text-decoration: none;
+        /*Het item dat je wilt dat overlapt moet een hogere z-index hebben*/
+        z-index: 1200;
     }
 
     .header img{
@@ -53,7 +59,7 @@
     }
 
     .active, .header:hover {
-         background-color: rgb(218,165,32);
+         background-color: rgb(175, 130, 24);
          height: 14%;
          color: black;
      }
@@ -61,6 +67,52 @@
     .headerkopje{
     }
     /*        */
+
+
+.middletop{
+    height: 5%;
+}
+.middleleft{
+    display: flex;
+    width: 30%;
+    height: 20%;
+    background-color: black;
+    /*border-radius: 0px 20px 500px 0px;*/
+
+}
+
+.middleleft p{
+    align-self: center;
+    height: 20%;
+    color: rgb(175, 130, 24);
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    font-family: 'Didact Gothic', sans-serif;
+    margin-right: 50px}
+
+
+/*}*/
+
+    .middleright{
+        display: flex;
+        width: 30%;
+        height: 20%;
+        background-color: black;
+        /*border-radius: 20px 0px 0px 500px;*/
+        float: right;
+    }
+
+    .middleright p{
+        align-self: center;
+        height: 20%;
+        color: rgb(175, 130, 24);
+        text-align: center;
+        width: 100%;
+        font-size: 40px;
+        font-family: 'Didact Gothic', sans-serif;
+        margin-left: 50px}
+
 
 
 

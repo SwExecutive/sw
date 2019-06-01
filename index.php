@@ -8,10 +8,10 @@
     <title>hoofdpagina</title>
     <link rel="stylesheet" href="mobileindex.css">
     <link rel="stylesheet" href="desktopindex.css">
-<!--    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet">-->
-<!--    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
+    <link href="https://fonts.googleapis.com/css?family=Didact+Gothic&display=swap" rel="stylesheet">
 </head>
 <body>
+<div class="bodydiv">
 <div class="header">
     <img style="margin-left: 10px"     src="src/sarwarelogo.png" alt="">
 
@@ -21,7 +21,9 @@
     <a href="">OVER ONS</a>
     <a href="contact.php">CONTACT</a>
 </div>
-
+<div class="middletop"></div>
+<div class="middleleft"><p>Ontdek onze nieuwste gadgets.</p></div>
+<div class="middleright"><p>Laat uw website designen.</p></div>
 
 <?php
 

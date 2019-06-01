@@ -54,7 +54,7 @@
     }
 
     .active, .header:hover {
-        background-color: rgb(218,165,32);
+        background-color: rgb(175, 130, 24);
         height: 14%;
         color: black;
     }
