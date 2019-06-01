@@ -22,7 +22,8 @@
     <a href="contact.php">CONTACT</a>
 </div>
 <div class="middletop"></div>
-<div class="middleleft"><p>Ontdek onze nieuwste gadgets.</p></div>
+    <div class="middlestretch"></div>
+<div class="middleleft"><p>Ontdek onze nieuwste <br>gadgets.</p></div>
 <div class="middleright"><p>Laat uw website designen.</p></div>
 
 <?php
