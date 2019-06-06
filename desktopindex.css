@@ -72,16 +72,7 @@
 .middletop{
     height: 5%;
 }
-.middlestretch{
-    align-self: center;
-    background-color: rgb(175, 130, 24) ;
-    width: 1%;
-    height: 20%;
-    position: absolute;
-    margin-left: 500px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
-}
+
 .middleleft{
     display: flex;
     width: 40%;
