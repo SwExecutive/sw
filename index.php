@@ -12,19 +12,21 @@
 </head>
 <body>
 <div class="bodydiv">
-    <div class="header">
-        <img style="margin-left: 10px" src="src/sarwarelogo.png" alt="">
+<!--    <div class="header">-->
+<!--        <img style="margin-left: 10px" src="src/sarwarelogo.png" alt="">-->
+<!---->
+<!---->
+<!--        <a href="">NIEUWS</a>-->
+<!--        <a href="">OVER ONS</a>-->
+<!--        <a href="contact.php">CONTACT</a>-->
+<!--    </div>-->
+<!--    <div class="middletop"></div>-->
+<!--    <div class="middlestretch"></div>-->
+<!--    <div class="middleleft"><p>Ontdek onze nieuwste <br>gadgets.</p></div>-->
+<!--    <div class="middleright"><p>Laat uw website designen.</p></div>-->
+<!--    -->
 
-
-        <a href="">NIEUWS</a>
-        <a href="">OVER ONS</a>
-        <a href="contact.php">CONTACT</a>
-    </div>
-    <div class="middletop"></div>
-    <div class="middlestretch"></div>
-    <div class="middleleft"><p>Ontdek onze nieuwste <br>gadgets.</p></div>
-    <div class="middleright"><p>Laat uw website designen.</p></div>
-
+    <h1 style="margin: auto; color: white; align-content: center; justify-content: center; text-align: center">Deze website is onder constructie</h1>
     <?php
 
 
